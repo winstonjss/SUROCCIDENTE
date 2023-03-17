@@ -130,19 +130,22 @@
 
 .img2{
     margin-left: -860px;
-    margin-top: 100px;
+    margin-top: 90px;
+    height: 340px;
 }
 .img1{
     margin-left: -670px;
-    margin-top: 100px;
+    margin-top: 90px;
+    height: 340px;
 }
 .img3{
     margin-left: -760px;
     margin-top: 100px;
+    height: 340px;
 }
 .title1{    
     color: black;
-    margin-bottom: 450px;
+    margin-bottom: 430px;
     margin-left: 700px;
 }
 
